@@ -20,7 +20,7 @@ The scoreboard updates after each game, and the board resets after 2 seconds.
 Installation
 
 Clone this repository:
-git clone https://github.com/your-username/tic-tac-vibe.git
+git clone https://github.com/Alistaire-Q/Tic-Tac-Vibe
 
 
 Open index.html in your browser to play locally.
