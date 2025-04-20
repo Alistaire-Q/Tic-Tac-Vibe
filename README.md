@@ -32,11 +32,6 @@ HTML: Game structure.
 CSS: Styling and animations.
 JavaScript: Game logic and Minimax AI.
 
-Screenshots
-Gameplay showing "X" winning with scoreboard and animations.
-Future Improvements
 
-Add a "Reset Score" button.
-Add a two-player mode.
 
 
